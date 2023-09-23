@@ -1,0 +1,52 @@
+body {
+    background-color: #FFFFFF;
+}
+
+
+.page-container {
+    margin-top: 75px;
+}
+
+.button-group {
+    padding: 1vw;
+    text-align: center;
+}
+
+.button-group > button {
+    font-size: 1.5em;
+    margin: 10px;
+    padding: 10px;
+}
+
+#counterText {
+    color: black;
+    font-family: arial, sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+#favoriteColorContainer {
+    width: 200px;
+    margin: 20px;
+ }
+ 
+ 
+ #favoriteColorBox {
+    background-color: #dc3545;
+    line-height: 100px;
+    text-align: center;
+    color: white;
+ }
+
+.btn-purple {
+    background-color: #800080; /* Set the background color to purple */
+    color: white; /* Set the text color to white for contrast */
+}
+
+.btn-purple:hover {
+    background-color: #7e00b8; /* Change the background color on hover (optional) */
+}
+
+
+ 
+
