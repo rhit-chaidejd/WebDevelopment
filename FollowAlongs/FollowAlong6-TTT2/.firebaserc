@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "rhit-chaidejd-many-tic-tac-toe"
+  },
+  "targets": {
+    "rhit-chaidejd-many-tic-tac-toe": {
+      "hosting": {
+        "01": [
+          "rhit-chaidejd-many-tic-tac-toe"
+        ],
+        "02": [
+          "rhit-chaidejd-tic-game-02"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
